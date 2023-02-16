@@ -43,6 +43,12 @@ SELECT * FROM customers WHERE last_name = 'Jones';
 -- Fetch all customers whose first name is not ‘Scott’
 SELECT * FROM customers WHERE first_name != 'Scott';
 
+
+
+
+
+
+
 --c'est ici l'exo en question commence mais vu que c'est une continuité du xp precedent voilà
 
 --All items, ordered by price (lowest to highest).
